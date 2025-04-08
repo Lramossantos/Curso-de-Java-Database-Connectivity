@@ -4,5 +4,5 @@
   <artifactId>JavaDatabaseConnectivity</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Java Database Connectivity</name>
-  <description>Um projeto para demonstrar a conexão a bancos de dados usando JDBC</description>
+  <description>Um projeto para demonstrar a conexão a bancos de dados usando JDBC</description>  
 </project>
